@@ -1,0 +1,10 @@
+
+# Ignore all baze-generated stuff.
+/bazel-*
+
+# Vim
+*~
+.*.swp
+
+# Locked versions
+*.lock
